@@ -1,0 +1,2 @@
+1) All-pass instead of lowpass filter. 
+2) lookup tables. 

@@ -1,0 +1,2 @@
+﻿  include_juce_audio_plugin_client_VST2.cpp
+C:\Users\Abhinav Natarajan\Documents\JUCE\modules\juce_audio_plugin_client\VST\juce_VST_Wrapper.cpp(104,10): fatal error C1083: Cannot open include file: 'pluginterfaces/vst2.x/aeffect.h': No such file or directory
